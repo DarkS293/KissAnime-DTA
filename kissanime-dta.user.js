@@ -21,7 +21,7 @@
   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 **/
 // ==UserScript==
-// @name           KissAnime DTA
+// @name           KissAnime-DTA
 // @namespace      http://arasyi/kissanime-dta
 // @author         Arif Rasyidi <arasyi@gmail.com>
 // @version        1.0
