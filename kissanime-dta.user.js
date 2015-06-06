@@ -59,7 +59,6 @@ function generateDownloadLink() {
 			var downloadData = data.substring(idx, idx2);
 			downloadData = asp.wrap(downloadData);
 			downloadData = downloadData.replace('Mobile / Download (Save link as...): ', '');
-			downloadData = downloadData.replace(/-/g, '<br>');
 			var $downloadData = $('<div>' + downloadData + '</div>');
 			$downloadData.find('a').each(function () {
 				$(this).text($eps.text() + ' - ' + $(this).text());
